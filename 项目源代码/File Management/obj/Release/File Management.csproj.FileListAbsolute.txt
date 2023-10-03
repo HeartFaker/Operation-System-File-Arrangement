@@ -1,0 +1,12 @@
+C:\University Studying\2-2 Sophmore Year\操作系统 张慧娟\Assignments\Project3_2153061_谢嘉麒\项目源代码\File Management\bin\Release\File Management.exe.config
+C:\University Studying\2-2 Sophmore Year\操作系统 张慧娟\Assignments\Project3_2153061_谢嘉麒\项目源代码\File Management\bin\Release\File Management.exe
+C:\University Studying\2-2 Sophmore Year\操作系统 张慧娟\Assignments\Project3_2153061_谢嘉麒\项目源代码\File Management\bin\Release\File Management.pdb
+C:\University Studying\2-2 Sophmore Year\操作系统 张慧娟\Assignments\Project3_2153061_谢嘉麒\项目源代码\File Management\obj\Release\File Management.csproj.AssemblyReference.cache
+C:\University Studying\2-2 Sophmore Year\操作系统 张慧娟\Assignments\Project3_2153061_谢嘉麒\项目源代码\File Management\obj\Release\File Management.csproj.SuggestedBindingRedirects.cache
+C:\University Studying\2-2 Sophmore Year\操作系统 张慧娟\Assignments\Project3_2153061_谢嘉麒\项目源代码\File Management\obj\Release\File_Management.FolderForm.resources
+C:\University Studying\2-2 Sophmore Year\操作系统 张慧娟\Assignments\Project3_2153061_谢嘉麒\项目源代码\File Management\obj\Release\File_Management.NotePadForm.resources
+C:\University Studying\2-2 Sophmore Year\操作系统 张慧娟\Assignments\Project3_2153061_谢嘉麒\项目源代码\File Management\obj\Release\File_Management.Properties.Resources.resources
+C:\University Studying\2-2 Sophmore Year\操作系统 张慧娟\Assignments\Project3_2153061_谢嘉麒\项目源代码\File Management\obj\Release\File Management.csproj.GenerateResource.cache
+C:\University Studying\2-2 Sophmore Year\操作系统 张慧娟\Assignments\Project3_2153061_谢嘉麒\项目源代码\File Management\obj\Release\File Management.csproj.CoreCompileInputs.cache
+C:\University Studying\2-2 Sophmore Year\操作系统 张慧娟\Assignments\Project3_2153061_谢嘉麒\项目源代码\File Management\obj\Release\File Management.exe
+C:\University Studying\2-2 Sophmore Year\操作系统 张慧娟\Assignments\Project3_2153061_谢嘉麒\项目源代码\File Management\obj\Release\File Management.pdb

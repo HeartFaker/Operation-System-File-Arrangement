@@ -1,0 +1,99 @@
+root
+operation system
+1
+2023/6/13 16:48:54
+0
+-1
+#
+root
+Algorithms
+1
+2023/6/13 16:49:03
+0
+-1
+#
+root
+Data Base
+1
+2023/6/13 16:49:14
+0
+-1
+#
+root
+systemInfo
+0
+2023/6/13 16:49:21
+0
+0
+#
+operation system
+Assignments
+1
+2023/6/13 16:49:29
+0
+-1
+#
+operation system
+lectures
+1
+2023/6/13 16:50:22
+0
+-1
+#
+Algorithms
+assignment1
+0
+2023/6/13 18:20:14
+5
+10
+#
+Assignments
+2153061_谢嘉麒
+0
+2023/6/13 18:18:39
+5
+0
+#
+Assignments
+Assignment3
+1
+2023/6/13 18:19:08
+0
+-1
+#
+lectures
+ch_1
+0
+2023/6/13 16:50:42
+8
+11
+#
+lectures
+ch_2
+0
+2023/6/13 16:50:33
+0
+0
+#
+lectures
+ch_3
+0
+2023/6/13 16:50:36
+0
+0
+#
+Assignment3
+code
+0
+2023/6/13 18:20:35
+26
+17
+#
+Assignment3
+debug
+0
+2023/6/13 18:19:28
+0
+0
+#
+END
